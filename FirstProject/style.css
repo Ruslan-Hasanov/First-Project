@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+    color: white;
+    font-size: 45px;
+    font-family: 'Fruktur', cursive;
+}
+
+
+.figmadiv {
+width: 379px;
+height: 210px;
+background: #0A9FF3;
+transform: rotate(45.08deg);
+border-radius:80%;
+
+}
+
+
+
+
+
